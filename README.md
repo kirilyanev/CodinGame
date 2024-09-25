@@ -13,3 +13,4 @@ You will find all my puzzle solutions on Codingame here. I am still learning cod
 | No. | Puzzle Name | State | Language | Date Submission |
 | --- | ----------- | ----- | -------- | --------------- |
 | 001 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | [JS](https://github.com/kirilyanev/CodinGame/blob/main/Puzzles/Easy/Onboarding/Javascript.js) | 31-07-2024
+| 002 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | [JS](https://github.com/kirilyanev/CodinGame/blob/main/Puzzles/Easy/The%20descent/Javascript.js) | 31-07-2024
