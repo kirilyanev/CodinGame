@@ -4,7 +4,7 @@ All the exercises I solved on CodinGame [My Profile](https://www.codingame.com/p
 
 ## Introduction
 
-You will find all my puzzle solutions on Codingame here. I am still learning coding so some of the solutions may be a bit rough around the edges.
+You will find all my puzzle solutions on Codingame here.
 
 ## Completed Puzzles
 
