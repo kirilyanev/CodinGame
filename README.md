@@ -14,3 +14,4 @@ You will find all my puzzle solutions on Codingame here. I am still learning cod
 | --- | ----------- | ----- | -------- | --------------- |
 | 001 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | [JS](https://github.com/kirilyanev/CodinGame/blob/main/Puzzles/Easy/Onboarding/Javascript.js) | 31-07-2024
 | 002 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | [JS](https://github.com/kirilyanev/CodinGame/blob/main/Puzzles/Easy/The%20descent/Javascript.js) | 31-07-2024
+| 003 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | [JS](https://github.com/kirilyanev/CodinGame/blob/main/Puzzles/Easy/Power%20of%20Thor%20-%20Episode%201/Javascript.js) | 02-08-2024
